@@ -11,3 +11,7 @@ This App is designed to carry out PCA.
 
 pls contact ismailaslan1@gmail.com for more info.
 Good luck
+
+![alt text](https://github.com/aslanismailgit/Factor-Analysis-MATLAB-GUI/blob/master/images/home.png)
+
+![alt text](https://github.com/aslanismailgit/Factor-Analysis-MATLAB-GUI/blob/master/images/secondPage.png)
