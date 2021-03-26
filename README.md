@@ -1,6 +1,6 @@
 # Factor Analysis MATLAB GUI
  GUI designed for Factor Analysis
-This App is designed to carry out PCA.
+This App is designed to carry out Factor Analysis.
 
 - There 2 options to run:
   1. Add App file to MATLAB Apps
@@ -9,7 +9,6 @@ This App is designed to carry out PCA.
      Add a path of this file
      Run  FA_1.m on your command window
 
-pls contact ismailaslan1@gmail.com for more info.
 Good luck
 
 ![alt text](https://github.com/aslanismailgit/Factor-Analysis-MATLAB-GUI/blob/master/images/home.png)
